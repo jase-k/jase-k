@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ![Jest Testing](https://img.shields.io/badge/testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=91b302)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jase-k">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jase-k&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/jase-k">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jase-k&theme=merko&langs_count=3" />
 </a>
 
