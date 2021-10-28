@@ -1,3 +1,7 @@
+<a href="https://martinheinz.dev/" rel="nofollow">
+  <img src="https://github.com/jase-k/jase-k/blob/main/banner%20.svg" alt="Header" title="Header" style="width: 100%;">
+</a>
+
 ### Hi there 👋
 I'm Jase Kraft (no affiliation with Kraft Foods...), but they call me Jae 🧀 (Jay - Cheese or Jay Cheddar). Living in the Midwest my whole life and currently looking for my first development job. I've sold plenty of software in previous roles, now I want to build it.
 <!--
