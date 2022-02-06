@@ -3,7 +3,7 @@
 </a>
 
 ### Hi there 👋
-I'm Jase Kraft (no affiliation with Kraft Foods...), but they call me Jae 🧀 (Jay - Cheese or Jay Cheddar). Living in the Midwest my whole life and currently looking for my first development job. I've sold plenty of software in previous roles, now I want to build it.
+I'm Jase Kraft (no affiliation with Kraft Foods...), but they call me Jae 🧀 (Jay - Cheese or Jay Cheddar). Living in the Midwest my whole life and currently looking into web3 technologies. Would love to help contribute to open source or DAO projects if you reach out!
 <!--
 **jase-k/jase-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![MongoDB database](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=f27405)<!-- Deployment --> 
 ![AWS Service](https://img.shields.io/badge/deployment-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=f27405)
 ![Heroku Service](https://img.shields.io/badge/deployment-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=f27405)<!-- Testing --> 
-![Jest Testing](https://img.shields.io/badge/testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=f27405)
+<!-- ![Jest Testing](https://img.shields.io/badge/testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=f27405) -->
 
 
 <a href="https://github.com/jase-k">
