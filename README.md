@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- Languages -->
 ![JavaScript Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f27405)
 ![Python Language](https://img.shields.io/badge/lang-Python-informational?style=flat&logo=Python&logoColor=white&color=f27405)
-![Java Language](https://img.shields.io/badge/lang-Java-informational?style=flat&logo=Java&logoColor=white&color=f27405)
+![Rust Language](https://img.shields.io/badge/lang-Rust-orange?logo=rust)
 ![Node.js Language](https://img.shields.io/badge/lang-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=f27405)<!-- Frameworks --> 
 ![Flask Framework](https://img.shields.io/badge/framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=f27405)
 ![React Library](https://img.shields.io/badge/library-React-informational?style=flat&logo=React&logoColor=white&color=f27405)
