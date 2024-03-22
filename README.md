@@ -33,12 +33,3 @@ Here are some ideas to get you started:
 ![MongoDB database](https://img.shields.io/badge/database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=f27405)<!-- Deployment --> 
 ![AWS Service](https://img.shields.io/badge/deployment-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=f27405)
 <!-- ![Jest Testing](https://img.shields.io/badge/testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=f27405) -->
-
-
-<a href="https://github.com/jase-k">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jase-k&theme=slateorange" />
-</a>
-<a href="https://github.com/jase-k">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jase-k&theme=slateorange&langs_count=3" />
-</a>
-
